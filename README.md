@@ -16,7 +16,7 @@ Compile the code using GCC:
 ```bash
 make
 ./palindrome
-
+```
 ## or 🔽 Download
 
 [Download Windows .exe](https://github.com/maple-v2/palindrome/raw/main/palindrome.exe)
