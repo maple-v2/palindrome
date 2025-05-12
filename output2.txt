@@ -1,0 +1,3 @@
+please enter a text:The text you enterd  is: never odd or even
+
+The function returned 1 ,that mean the given text is palindrome
