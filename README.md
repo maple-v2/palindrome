@@ -15,7 +15,7 @@ Compile the code using GCC:
 
 ```bash
 make
-./palindrome.exe
+./palindrome
 
 ## or 🔽 Download
 
